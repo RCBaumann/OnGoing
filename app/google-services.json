@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "341093500368",
+    "project_id": "ongoingfinance",
+    "storage_bucket": "ongoingfinance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341093500368:android:97f0eac734631cee5de5d5",
+        "android_client_info": {
+          "package_name": "com.graxa.ongoingfinance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341093500368-4nfvnrmo90gmmnmt2srm6het06fnv32n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.graxa.ongoingfinance",
+            "certificate_hash": "94a4fd7268f90a09ccc7bb9e801d8ae7eef48d06"
+          }
+        },
+        {
+          "client_id": "341093500368-1tl6p7m12jukko3fuf7pgqoif02gf0al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4hJXcz3iyfDs8R2fQ-cOkCLaHc_0UXpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341093500368-1tl6p7m12jukko3fuf7pgqoif02gf0al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
